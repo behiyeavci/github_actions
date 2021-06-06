@@ -25,3 +25,6 @@ Test Runner
 * 'pytest' is an example of a test runner
 * In pytest, every function that will be checked should start with 'test_prefix'
 * Here is the link: https://realpython.com/python-testing/
+
+## AWS S3 push github actions (TBD)
+* https://dev.to/johnkevinlosito/deploy-static-website-to-s3-using-github-actions-4a0e
