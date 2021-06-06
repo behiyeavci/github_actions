@@ -1,3 +1,11 @@
+## Info
+
+This repository is a toy repository to play with github actions.
+
+## Pytest github actions
+* [Test steps](tests.py)
+* [Workflow yml file](.github/worflows/python-test.yml)
+
 CI/CD
 * Trigger test suit when new code is added
 * Trigger deployment when tests are passed
@@ -14,3 +22,4 @@ Test Runner
 * The test runner is a special application designed for running tests, checking the output, and giving you tools for debugging and diagnosing tests and applications.
 * 'pytest' is an example of a test runner
 * In pytest, every function that will be checked should start with 'test_prefix'
+* Here is the link: https://realpython.com/python-testing/
