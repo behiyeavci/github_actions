@@ -2,9 +2,11 @@
 
 This repository is a toy repository to play with github actions.
 
+NOTE: More info relate with github actions can be found in [github actions documentation](https://docs.github.com/en/actions)
+
 ## Pytest github actions
 * [Test steps](tests.py)
-* [Workflow yml file](.github/worflows/python-test.yml)
+* [Workflow yml file](.github/workflows/python-test.yml)
 
 CI/CD
 * Trigger test suit when new code is added
